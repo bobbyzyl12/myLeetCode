@@ -27,6 +27,5 @@ int hammingDistance1(int x, int y) {			//version 1
 }
 
 void main(){
-	
 	cout << hammingDistance1(1,4)<<endl;
 }
