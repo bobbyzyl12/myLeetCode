@@ -22,7 +22,6 @@ int hammingDistance1(int x, int y) {			//version 1
 			n++;
 		z = z / 2;
 	}
-
 	return n;
 }
 
