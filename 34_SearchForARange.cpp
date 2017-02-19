@@ -104,17 +104,5 @@ void main() {
 		 << "target = 7  " << searchRange2(a, 7)[0] << " " << searchRange2(a, 7)[1] << endl;
 	cout << endl;
 
-
-	cout << "---------version 3----------" << endl;
-	cout
-		<< "target = 1  " << searchRange3(a, 1)[0] << " " << searchRange3(a, 1)[1] << endl
-		<< "target = 2  " << searchRange3(a, 2)[0] << " " << searchRange3(a, 2)[1] << endl
-		<< "target = 3  " << searchRange3(a, 3)[0] << " " << searchRange3(a, 3)[1] << endl
-		<< "target = 4  " << searchRange3(a, 4)[0] << " " << searchRange3(a, 4)[1] << endl
-		<< "target = 6  " << searchRange3(a, 6)[0] << " " << searchRange3(a, 6)[1] << endl
-		<< "target = 7  " << searchRange3(a, 7)[0] << " " << searchRange3(a, 7)[1] << endl;
-	cout << endl;
-
-
 	system("pause");
 }
